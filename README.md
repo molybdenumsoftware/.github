@@ -34,4 +34,17 @@ Sorry. We love open source too much.
 
 We're biased toward Rust and have expertise with JavaScript and TypeScript, as well.
 
+### Show me your portfolio
+
+We're currently looking for our first sponsor.
+But here are some contributions that the founder is involved with:
+
+- https://crates.io/crates/michie
+- https://www.npmjs.com/package/eslint-config-standard-with-typescript
+
+### Who are you?
+
+Currently, this is an initiative by [Shahar "Dawn" Or], with interest from several of his peers.
+
 [mob programming]: https://www.remotemobprogramming.org/
+[Shahar "Dawn" Or]: https://github.com/mightyiam
