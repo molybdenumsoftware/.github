@@ -1,12 +1,9 @@
-# Molybdenum Software Systems
+# Molybdenum Software
 
-Fully transparent open source development
+> Sponsor open source with confidence
 
-## Open source
-
-Contributing to open source feels better.
-So we do only that.
-We honor both the sponsor's priorities and the project's existing commitments.
+You pay us and we contribute to open source.
+We honor both your priorities and the project's existing commitments.
 
 ## In public
 
@@ -14,16 +11,27 @@ All work sessions are publicly live streamed and archived.
 
 ## Mob programming
 
-Collaboration is a primary contributing factor for quality software.
-The smallest producing unit is therefore a [mob][mob programming].
+Focus on collaboration leads to better software.
+The smallest producing unit is therefore not a solo developer,
+but a [mob][mob programming].
 
 ## Pricing
 
-250 EUR per hour for a mob of four developers.
+250 EUR per mob hour.
 
 ## Low risk
 
-We push to production immediately and frequently.
+We contribute immediately and frequently.
 If we fall short of your expectations, terminate our work without prior notice.
+
+## Questions and answers
+
+### I'd like to contract you for work on proprietary software
+
+Sorry. We love open source too much.
+
+### What languages do you support?
+
+We're biased toward Rust and have expertise with JavaScript and TypeScript, as well.
 
 [mob programming]: https://www.remotemobprogramming.org/
