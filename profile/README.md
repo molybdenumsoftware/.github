@@ -28,7 +28,8 @@ No prior notice.
 
 ## We're not a company
 
-We're individuals, colleagues and friends.
+We're colleagues and friends.
+A collective.
 We get paid via [our Open Collective].
 
 [our Open Collective]: https://opencollective.com/molybdenumsoftware
