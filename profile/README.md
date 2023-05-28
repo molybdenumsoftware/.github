@@ -2,7 +2,7 @@
 
 > An open source Rust mob programming collective
 
-You pay us and we contribute to open source.
+You pay us and we contribute to open source Rust project.
 We honor both your priorities and the project's existing commitments.
 
 ## In public
@@ -12,8 +12,9 @@ All work sessions are publicly live streamed and archived.
 ## Mob programming
 
 Focus on collaboration leads to better software.
-The smallest producing unit is therefore not a solo developer,
-but a [mob][mob programming].
+Human interaction leads to happier developers.
+We don't solo-program.
+We [mob program][mob programming].
 
 ## Pricing
 
@@ -36,11 +37,13 @@ We get paid via [our Open Collective].
 
 ### I'd like to contract you for work on proprietary software
 
-Sorry. We love open source too much.
+We love open source too much.
+Sorry not sorry.
 
-### What languages do you support?
+### Why only Rust?
 
-We're biased toward Rust
+It's probably the best popular imperative language.
+Try it.
 
 ### Show me your portfolio
 
@@ -52,7 +55,8 @@ But here are some contributions that the founder is involved with:
 
 ### Who are you?
 
-Currently, this is an initiative by [Shahar "Dawn" Or], with interest from several of his peers.
+This is an initiative by [Shahar "Dawn" Or],
+with interest from several of his peers.
 
 [mob programming]: https://www.remotemobprogramming.org/
 [Shahar "Dawn" Or]: https://github.com/mightyiam
