@@ -2,7 +2,7 @@
 
 > An open source Rust mob programming collective
 
-You pay us and we contribute to open source Rust project.
+You pay us and we contribute to an open source Rust project.
 We honor both your priorities and the project's existing commitments.
 
 ## In public
