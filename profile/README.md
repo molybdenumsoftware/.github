@@ -1,6 +1,6 @@
-# Molybdenum Software
+# Sponsor open source with confidence
 
-> Sponsor open source with confidence
+> An open source Rust mob programming collective
 
 You pay us and we contribute to open source.
 We honor both your priorities and the project's existing commitments.
@@ -21,8 +21,16 @@ but a [mob][mob programming].
 
 ## Low risk
 
-We contribute immediately and frequently.
-If we fall short of your expectations, terminate our work without prior notice.
+We contribute frequently and precisely.
+If we fall short of your expectations, terminate our work.
+No prior notice.
+
+## We're not a company
+
+We're individuals, colleagues and friends.
+We get paid via [our Open Collective].
+
+[our Open Collective]: https://opencollective.com/molybdenumsoftware
 
 ## Questions and answers
 
@@ -32,7 +40,7 @@ Sorry. We love open source too much.
 
 ### What languages do you support?
 
-We're biased toward Rust and have expertise with JavaScript and TypeScript, as well.
+We're biased toward Rust
 
 ### Show me your portfolio
 
