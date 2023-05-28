@@ -1,4 +1,4 @@
-# Sponsor open source with confidence
+# Sponsor open source Rust with confidence
 
 > An open source Rust mob programming collective
 
