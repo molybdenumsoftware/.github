@@ -1,11 +1,23 @@
 # Sponsor open source Rust with confidence
 
 > An open source Rust mob programming collective
+> focusing on correctness and transparency
 
-You pay us and we contribute to an open source Rust project.
+You pay us to contribute to an open source Rust project.
 We honor both your priorities and the project's existing commitments.
 
-## In public
+## When correctness is prioritized
+
+1. Code should be written by a team of developers, synchronously,
+   from the first character to the last
+   — [mob programming].
+1. ...in the language that has the strongest guarantees
+   that is still practical
+   — [Rust].
+1. Changes should be precise and minimal and refactors made early
+   — [Razor Sharp Changes].
+
+## When transparency is important
 
 All work sessions are publicly live streamed and archived.
 
@@ -59,5 +71,7 @@ But here are some contributions that the founder is involved with:
 This is an initiative by [Shahar "Dawn" Or],
 with interest from several of his peers.
 
+[Razor Sharp Changes]: ../razor-sharp-changes
+[Rust]: https://www.rust-lang.org
 [mob programming]: https://www.remotemobprogramming.org/
 [Shahar "Dawn" Or]: https://github.com/mightyiam
