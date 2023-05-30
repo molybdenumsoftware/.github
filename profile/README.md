@@ -10,14 +10,14 @@ We honor both your priorities and the project's existing commitments.
 
 1. Code should be written by a team of developers, synchronously,
    from the first character to the last
-   — [mob programming].
+   — [mob programming](#mob-programming).
 1. ...in the language that has the strongest guarantees
    that is still practical
    — [Rust].
 1. Changes should be precise and minimal and refactors made early
    — [Razor Sharp Changes].
 
-## When transparency is important
+## Maximum transparency
 
 All work sessions are publicly live streamed and archived.
 
@@ -46,32 +46,27 @@ We get paid via [our Open Collective].
 
 [our Open Collective]: https://opencollective.com/molybdenumsoftware
 
-## Questions and answers
-
-### I'd like to contract you for work on proprietary software
+## Only open source
 
 We love open source too much.
 Sorry not sorry.
 
-### Why only Rust?
-
-It's probably the best popular imperative language.
-Try it.
-
-### Show me your portfolio
+## Show me your portfolio
 
 We're currently looking for our first sponsor.
-But here are some contributions that the founder is involved with:
+But here are some contributions members are involved with:
 
+- https://crates.io/crates/attribute-derive
+- https://crates.io/crates/manyhow
 - https://crates.io/crates/michie
-- https://www.npmjs.com/package/eslint-config-standard-with-typescript
 
-### Who are you?
+## Who are you?
 
-This is an initiative by [Shahar "Dawn" Or],
-with interest from several of his peers.
+- [Roland Fredenhagen]
+- [Shahar "Dawn" Or]
 
 [Razor Sharp Changes]: ../razor-sharp-changes
 [Rust]: https://www.rust-lang.org
 [mob programming]: https://www.remotemobprogramming.org/
 [Shahar "Dawn" Or]: https://github.com/mightyiam
+[Roland Fredenhagen]: https://github.com/ModProg
