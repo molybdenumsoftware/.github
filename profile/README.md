@@ -1,8 +1,8 @@
-# Sponsor open source Rust with confidence
+> The Answer to The Ultimate Question of Sponsoring Open Source Development,
+> Maintenance and Everything
 
-> An open source Rust mob programming collective
-> focusing on correctness and transparency
-
+We are an open source Rust mob programming collective
+focusing on correctness and transparency.
 You pay us to contribute to an open source Rust project.
 We honor both your priorities and the project's existing commitments.
 
