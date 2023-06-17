@@ -1,72 +1,55 @@
 > The Answer to The Ultimate Question of Sponsoring Open Source Development,
 > Maintenance and Everything
 
-We are an open source Rust mob programming collective
-focusing on correctness and transparency.
-You pay us to contribute to an open source Rust project.
-We honor both your priorities and the project's existing commitments.
+*We'd like to get paid to work on some open source Rust project.*
 
-## When correctness is prioritized
-
-1. Code should be written by a team of developers, synchronously,
-   from the first character to the last
-   — [mob programming](#mob-programming).
-1. ...in the language that has the strongest guarantees
-   that is still practical
-   — [Rust].
-1. Changes should be precise and minimal and refactors made early
-   — [Razor Sharp Changes].
-
-## Maximum transparency
-
-All work sessions are publicly live streamed and archived.
-
-## Mob programming
+We will
+honor your priorities and the project's existing commitments,
+prioritize correctness,
+adhere to the [mob programming format](#mob-programming),
+[commit meticulously][Razor Sharp Changes]
+and
+publicly live stream our sessions.
 
 Focus on collaboration leads to better software.
 Human interaction leads to happier developers.
 We don't solo-program.
 We [mob program][mob programming].
 
-## Pricing
-
-250 EUR per mob hour.
-
-## Low risk
+We charge 50 EUR per developer hour,
+with a minimum of four developers.
+We can upskill other developers, by including them in our sessions, for free.
 
 We contribute frequently and precisely.
 If we fall short of your expectations, terminate our work.
 No prior notice.
 
-## We're not a company
-
 We're colleagues and friends.
 A collective.
 We get paid via [our Open Collective].
 
-[our Open Collective]: https://opencollective.com/molybdenumsoftware
+But here are some of our open source Rust crates:
 
-## Only open source
+| name | downloads |
+|-|-|
+| attribute-derive | ![Crates.io](https://img.shields.io/crates/d/attribute-derive) |
+| manyhow | ![Crates.io](https://img.shields.io/crates/d/manyhow) |
+| michie | ![Crates.io](https://img.shields.io/crates/d/michie) |
 
-We love open source too much.
-Sorry not sorry.
+We are:
 
-## Show me your portfolio
-
-We're currently looking for our first sponsor.
-But here are some contributions members are involved with:
-
-- https://crates.io/crates/attribute-derive
-- https://crates.io/crates/manyhow
-- https://crates.io/crates/michie
-
-## Who are you?
-
-- [Roland Fredenhagen]
-- [Shahar "Dawn" Or]
+<table><tr>
+<td><a href="https://github.com/ModProg"><img
+  alt="Roland Fredenhagen" width="120"
+  src="https://avatars.githubusercontent.com/u/11978847?v=4"
+></a></td>
+<td><a href="https://github.com/mightyiam"><img
+  alt="Shahar \"Dawn\" Or" width="120"
+  src="https://avatars.githubusercontent.com/u/635591?v=4"
+></a></td>
+</tr></table>
 
 [Razor Sharp Changes]: ../razor-sharp-changes
 [Rust]: https://www.rust-lang.org
 [mob programming]: https://www.remotemobprogramming.org/
-[Shahar "Dawn" Or]: https://github.com/mightyiam
-[Roland Fredenhagen]: https://github.com/ModProg
+[our Open Collective]: https://opencollective.com/molybdenumsoftware
