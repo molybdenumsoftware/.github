@@ -28,7 +28,7 @@ We're colleagues and friends.
 A collective.
 We get paid via [our Open Collective].
 
-But here are some of our open source Rust crates:
+Some of our open source Rust crates:
 
 | name | downloads |
 |-|-|
