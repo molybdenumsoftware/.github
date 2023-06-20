@@ -5,9 +5,7 @@
 
 We will
 honor your priorities and the project's existing commitments,
-prioritize correctness,
-adhere to the [mob programming format](#mob-programming),
-[commit meticulously][Razor Sharp Changes]
+work in the [mob programming format](#mob-programming),
 and
 publicly live stream our sessions.
 
