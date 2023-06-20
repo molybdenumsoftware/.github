@@ -14,8 +14,6 @@ Human interaction leads to happier developers.
 We don't solo-program.
 We [mob program][mob programming].
 
-We charge 50 EUR per developer hour,
-with a minimum of four developers.
 We can upskill other developers, by including them in our sessions, for free.
 
 We contribute frequently.
