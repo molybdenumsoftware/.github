@@ -18,11 +18,11 @@ We charge 50 EUR per developer hour,
 with a minimum of four developers.
 We can upskill other developers, by including them in our sessions, for free.
 
-We contribute frequently and precisely.
+We contribute frequently.
 If we fall short of your expectations, terminate our work.
 No prior notice.
 
-We're colleagues and friends.
+We are colleagues and friends.
 A collective.
 We get paid via [our Open Collective].
 
