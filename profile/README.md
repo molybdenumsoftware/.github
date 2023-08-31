@@ -43,6 +43,10 @@ We are:
   alt="Shahar \"Dawn\" Or" width="120"
   src="https://avatars.githubusercontent.com/u/635591?v=4"
 ></a></td>
+<td><a href="https://github.com/Samyak2"><img
+  alt="Samyak Sarnayak" width="120"
+  src="https://avatars.githubusercontent.com/u/34161949?v=4"
+></a></td>
 </tr></table>
 
 [Razor Sharp Changes]: ../razor-sharp-changes
