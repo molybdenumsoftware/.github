@@ -1,38 +1,71 @@
-> The Answer to The Ultimate Question of Sponsoring Open Source Development,
-> Maintenance and Everything
+## What we offer
 
-*We'd like to get paid to work on some open source Rust project.*
+This is an experiment.
+Basically, we are three software developers looking to
+<ins>get paid</ins>¹
+<ins>publicly streaming</ins>²
+the development of an
+<ins>open source</ins>³
+<ins>Rust</ins>⁴
+project in
+<ins>mob programming format</ins>⁵.
 
-We will
-honor your priorities and the project's existing commitments,
-work in the [mob programming format](#mob-programming),
-and
-publicly live stream our sessions.
+<!-- PORMP -->
+
+Consider contacting us if you would like to
+<ins>sponsor</ins>¹
+the
+<ins>publicly streamed</ins>²
+development of an
+<ins>open source</ins>³
+<ins>Rust</ins>⁴
+project in
+<ins>mob programming format</ins>⁵
+
+> Half-jokingly, we wonder whether this format could be
+> *The Answer to The Ultimate Question of Sponsoring Open Source Development,
+> Maintenance and Everything*.
+
+## Why partner with us
+
+### Mob programming
 
 Focus on collaboration leads to better software.
-Human interaction leads to happier developers.
-We don't solo-program.
+Having company makes for happier developers.
 We [mob program][mob programming].
 
-We can upskill other developers, by including them in our sessions, for free.
+### Good habits
 
-We contribute frequently.
+We try to have good habits,
+such as continuous delivery,
+satisfactory testing and maintainable code.
+
+### Experience
+
+We have some experience.
+Some of our open source Rust crates:
+
+   | name | downloads |
+   |-|-|
+   | [attribute-derive](https://crates.io/crates/attribute-derive) | ![Crates.io](https://img.shields.io/crates/d/attribute-derive) |
+   | [manyhow](https://crates.io/crates/manyhow) | ![Crates.io](https://img.shields.io/crates/d/manyhow) |
+   | [michie](https://crates.io/crates/michie) | ![Crates.io](https://img.shields.io/crates/d/michie) |
+
+<!-- We can upskill other developers, by including them in our sessions, for free. -->
+<!-- We will honor your priorities and the project's existing commitments. -->
+
+### Low risk
+
+We commit frequently.
 If we fall short of your expectations, terminate our work.
 No prior notice.
 
-We are colleagues and friends.
-A collective.
-We get paid via [our Open Collective].
+### Paying us is easy
 
-Some of our open source Rust crates:
+We are a group of colleagues and friends.
+You can pay us through [our Open Collective].
 
-| name | downloads |
-|-|-|
-| attribute-derive | ![Crates.io](https://img.shields.io/crates/d/attribute-derive) |
-| manyhow | ![Crates.io](https://img.shields.io/crates/d/manyhow) |
-| michie | ![Crates.io](https://img.shields.io/crates/d/michie) |
-
-We are:
+## We are
 
 <table><tr>
 <td><a href="https://github.com/ModProg"><img
@@ -49,7 +82,5 @@ We are:
 ></a></td>
 </tr></table>
 
-[Razor Sharp Changes]: ../razor-sharp-changes
-[Rust]: https://www.rust-lang.org
 [mob programming]: https://www.remotemobprogramming.org/
 [our Open Collective]: https://opencollective.com/molybdenumsoftware
