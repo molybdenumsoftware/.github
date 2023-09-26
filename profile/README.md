@@ -40,17 +40,6 @@ We try to have good habits,
 such as continuous delivery,
 satisfactory testing and maintainable code.
 
-### Experience
-
-We have some experience.
-Some of our open source Rust crates:
-
-   | name | downloads |
-   |-|-|
-   | [attribute-derive](https://crates.io/crates/attribute-derive) | ![Crates.io](https://img.shields.io/crates/d/attribute-derive) |
-   | [manyhow](https://crates.io/crates/manyhow) | ![Crates.io](https://img.shields.io/crates/d/manyhow) |
-   | [michie](https://crates.io/crates/michie) | ![Crates.io](https://img.shields.io/crates/d/michie) |
-
 <!-- We can upskill other developers, by including them in our sessions, for free. -->
 <!-- We will honor your priorities and the project's existing commitments. -->
 
@@ -69,20 +58,31 @@ It would also make our relationship publicly transparent.
 
 ## We are
 
-<table><tr>
-<td><a href="https://github.com/ModProg"><img
-  alt="Roland Fredenhagen" width="120"
-  src="https://avatars.githubusercontent.com/u/11978847?v=4"
-></a></td>
-<td><a href="https://github.com/mightyiam"><img
-  alt="Shahar \"Dawn\" Or" width="120"
-  src="https://avatars.githubusercontent.com/u/635591?v=4"
-></a></td>
-<td><a href="https://github.com/Samyak2"><img
-  alt="Samyak Sarnayak" width="120"
-  src="https://avatars.githubusercontent.com/u/34161949?v=4"
-></a></td>
-</tr></table>
+<table>
+    <tr>
+        <td> <a href="https://github.com/ModProg"> <img alt="Roland Fredenhagen" width="120" src="https://avatars.githubusercontent.com/u/11978847?v=4"> </a> </td>
+        <td> <img alt="stats" src="https://github-readme-stats.vercel.app/api?hide_rank=true&theme=maroongold&username=ModProg"/> </td>
+        <td> <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ModProg&theme=maroongold"/> </td>
+    </tr>
+    <tr>
+        <td> <a href="https://github.com/mightyiam"> <img alt="Shahar \"Dawn\" Or" width="120" src="https://avatars.githubusercontent.com/u/635591?v=4"> </a> </td>
+        <td><img alt="stats"  src="https://github-readme-stats.vercel.app/api?hide_rank=true&theme=gruvbox&username=mightyiam"/></td>
+        <td> <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=mightyiam&theme=gruvbox"/> </td>
+    </tr>
+    <tr>
+        <td> <a href="https://github.com/Samyak2"> <img alt="Samyak Sarnayak" width="120" src="https://avatars.githubusercontent.com/u/34161949?v=4"> </a> </td>
+        <td><img alt="stats"  src="https://github-readme-stats.vercel.app/api?hide_rank=true&theme=dracula&username=Samyak2"/></td>
+        <td> <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Samyak2&theme=dracula&hide=jupyter%20notebook"/> </td>
+    </tr>
+</table>
+
+Some of our open source Rust crates:
+
+   | name | downloads |
+   |-|-|
+   | [attribute-derive](https://crates.io/crates/attribute-derive) | ![Crates.io](https://img.shields.io/crates/d/attribute-derive) |
+   | [manyhow](https://crates.io/crates/manyhow) | ![Crates.io](https://img.shields.io/crates/d/manyhow) |
+   | [michie](https://crates.io/crates/michie) | ![Crates.io](https://img.shields.io/crates/d/michie) |
 
 [mob programming]: https://www.remotemobprogramming.org/
 [our Open Collective]: https://opencollective.com/molybdenumsoftware
