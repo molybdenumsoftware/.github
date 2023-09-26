@@ -60,10 +60,12 @@ We commit frequently.
 If we fall short of your expectations, terminate our work.
 No prior notice.
 
-### Paying us is easy
+## How we intend to receive payment
 
-We are a group of colleagues and friends.
-You can pay us through [our Open Collective].
+We feel that [Open Collective](https://opencollective.com) can
+make paying us easy
+and allow us to distribute the funds between us.
+It would also make our relationship publicly transparent.
 
 ## We are
 
