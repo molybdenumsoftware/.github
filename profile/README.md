@@ -18,4 +18,9 @@
         <td><img alt="stats"  src="https://github-readme-stats.vercel.app/api?hide_rank=true&theme=dracula&username=Samyak2"/></td>
         <td> <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Samyak2&theme=dracula&hide=jupyter%20notebook"/> </td>
     </tr>
+    <tr>
+        <td> <a href="https://github.com/jfly"> <img alt="Jeremy \"jfly\" Fleischman" width="120" src="https://avatars.githubusercontent.com/u/277474?v=4"> </a> </td>
+        <td><img alt="stats"  src="https://github-readme-stats.vercel.app/api?hide_rank=true&theme=dracula&username=jfly"/></td>
+        <td> <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jfly&theme=dracula&hide=jupyter%20notebook"/> </td>
+    </tr>
 </table>
