@@ -14,9 +14,9 @@ then we are honored to have been of service.
 
 Full,
 un-edited,
+sychronous collaboration
 software development sessions,
-working in remote mob programming format,
-on open source projects,
+on open source software,
 publicly available,
 for free.
 
