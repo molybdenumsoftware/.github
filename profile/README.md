@@ -6,6 +6,11 @@
 
 ## Participate
 
+### Requirements
+
+You don't need to be a top 👷 engineer.
+You need to be a reasonable one and show up in some regular capacity.
+
 ### 📅 schedule
 
 - [web page](https://calendar.google.com/calendar/embed?src=20161ad99705885e8400a77b86482afa0ff13183375e639faed6b1c425a40a86%40group.calendar.google.com)
