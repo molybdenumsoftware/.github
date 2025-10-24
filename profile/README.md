@@ -1,7 +1,3 @@
-# The Molybdenum Software Show
-
-Open source contribution in mob programming format
-
 ## Watch
 
 <a href="https://www.youtube.com/@molybdenumsoftware">
