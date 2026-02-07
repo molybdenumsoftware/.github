@@ -1,3 +1,8 @@
+The Molybdenum Software Show is just some people having a good time doing open source together.
+Our collaboration is in [remote mob programming format](https://www.remotemobprogramming.org/#git-handover) with [git handover](https://www.remotemobprogramming.org/#git-handover).
+It is also an attempt to produce and provide free educational content.
+We hope that it will be of value to some.
+
 ## Watch
 
 <a href="https://www.youtube.com/@molybdenumsoftware">
@@ -6,20 +11,19 @@
 
 ## Participate
 
+If you've been doing software for a while and think you might enjoy doing what we do,
+consider joining us.
+
 ### Requirements
 
-You don't need to be a top 👷 engineer.
-You need to be a reasonable one and show up in some regular capacity.
+- Be a decent coder 👷
+- Participate at least one session per week
+- A stable and decent internet connection
+- Capable computer with Linux or macOS
+- We will be using [Nix](https://nix.dev/)
+- Able to share entire screen
 
-### 📅 schedule
+### How to apply
 
-- [web page](https://calendar.google.com/calendar/embed?src=20161ad99705885e8400a77b86482afa0ff13183375e639faed6b1c425a40a86%40group.calendar.google.com)
-  Be aware of the timezone!
-- [live iCal](https://calendar.google.com/calendar/ical/20161ad99705885e8400a77b86482afa0ff13183375e639faed6b1c425a40a86%40group.calendar.google.com/public/basic.ics)
-  Import into your calendar ([instructions for Google Calendar](https://support.google.com/calendar/answer/37118))
+Message [mightyiam (Shahar "Dawn" Or)](https://github.com/mightyiam) with "molybdenum".
 
-### 🎙️ studio
-
-Requires a Chromium-based browser (sorry).
-
-[Join here](https://riverside.fm/studio/molybdenumsoftware?t=5f719a9861f3ede5d74c)
