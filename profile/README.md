@@ -14,6 +14,13 @@ We hope that it will be of value to some.
 If you've been doing software for a while and think you might enjoy doing what we do,
 consider joining us.
 
+### Benefits
+
+- Continuous learning on steroids
+- Real projects
+- Gain some web cred doing open source
+- Alleviate loneliness
+
 ### Requirements
 
 - Be a decent coder 👷
@@ -27,6 +34,10 @@ consider joining us.
 ### Schedule
 
 Schedule is determined among the participants.
+
+### Projects
+
+See the list of repositories in this org.
 
 ### How to apply
 
