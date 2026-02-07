@@ -20,10 +20,11 @@ consider joining us.
 - Participate at least one session per week
 - A stable and decent internet connection
 - Capable computer with Linux or macOS
-- We will be using [Nix](https://nix.dev/)
+- headphones, decent mic, quiet environment
 - Able to share entire screen
+- We will be using [Nix](https://nix.dev/)
 
 ### How to apply
 
-Message [mightyiam (Shahar "Dawn" Or)](https://github.com/mightyiam) with "molybdenum".
+To apply or for any inquiries message [mightyiam (Shahar "Dawn" Or)](https://github.com/mightyiam) with "molybdenum".
 
