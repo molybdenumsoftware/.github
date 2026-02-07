@@ -24,6 +24,10 @@ consider joining us.
 - Able to share entire screen
 - We will be using [Nix](https://nix.dev/)
 
+### Schedule
+
+Schedule is determined among the participants.
+
 ### How to apply
 
 To apply or for any inquiries message [mightyiam (Shahar "Dawn" Or)](https://github.com/mightyiam) with "molybdenum".
