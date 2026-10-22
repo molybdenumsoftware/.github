@@ -6,6 +6,7 @@ We hope that it will be of value to some.
 ## Watch
 
 <a href="https://www.youtube.com/@molybdenumsoftware">
+<p>On our YouTube channel</p>
 <img src="./yt_icon_red_digital.png" alt="Watch on YouTube (@molybdenumsoftware)" width="200">
 </a>
 
